@@ -1,4 +1,3 @@
-#solution1_no csv
 with open ('Data/data.csv', 'r') as f:
 	headers = next(f)
 	print (headers)
