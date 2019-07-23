@@ -6,7 +6,7 @@ This exercise aims to allow students to practise reading csv files, perform simp
 ## Scenario & Task
 A csv file containing advertising data is provided. Please place the csv file in the same directory as your python file so you can avoid figuring out the path of the file. The csv file contains the date, number of impressions and total spend. Please calculate the cost per impression for the last column. 
 
-You can also challenge yourself and find out how to save everything into a another csv file. 
+You can also challenge yourself and find out how to save the output into a new csv file. 
 
 ## Expected Output
 The output of the program can be as simple as printing out each line like this:
