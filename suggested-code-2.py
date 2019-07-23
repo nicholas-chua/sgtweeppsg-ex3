@@ -20,3 +20,5 @@ with open ('Data/data2.csv', 'r') as csvinput:
             all.append(row)
 
         writer.writerows(all)
+
+        
