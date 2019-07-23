@@ -17,4 +17,4 @@ The output of the program can be as simple as printing out each line like this:
 
 ## Contributors
 * [Shang Liang](https://twitter.com/quietcricket) - Wrote the initial version.
-* [Nicholas Chua](https://twitter.com/chua_mh) - Minor wording suggestions.
+* [Nicholas Chua](https://twitter.com/chua_mh) - Wording & code suggestions.
