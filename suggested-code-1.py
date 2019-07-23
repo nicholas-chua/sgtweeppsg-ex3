@@ -11,3 +11,4 @@ with open ('Data/data.csv', 'r') as f:
 		else:
 			parts[3] = parts[2]/parts[1]
 		print(parts)
+		
